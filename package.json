@@ -1,0 +1,23 @@
+{
+  "name": "tsukasa",
+  "version": "1.0.0",
+  "description": "whatsapp chatbot of covid-19 information and statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khavitidala/tsukasa.git"
+  },
+  "keywords": [
+    "covid-19",
+    "chatbot"
+  ],
+  "author": "Kelompok 29 WGTIK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khavitidala/tsukasa/issues"
+  },
+  "homepage": "https://github.com/khavitidala/tsukasa#readme"
+}
