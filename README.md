@@ -6,7 +6,7 @@
 ```bash
 > git clone https://github.com/khavitidala/totsuka.git
 ```
-## Install the dependencies:
+### Install the dependencies:
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
