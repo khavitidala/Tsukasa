@@ -4,7 +4,7 @@
 ### Clone this project
 
 ```bash
-> git clone https://github.com/khavitidala/totsuka.git
+> git clone https://github.com/khavitidala/tsukasa
 ```
 ### Install the dependencies:
 Before running the below command, make sure you're in the project directory that
