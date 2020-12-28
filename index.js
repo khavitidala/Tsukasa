@@ -120,9 +120,6 @@ async function msgHandler(client, message) {
                         if(key.search(prov.toLowerCase()) != -1) {
                             pesan=pesan+"\n\n*"+datars[i].name+"*"
                             pesan = pesan + "\nAlamat : "+datars[i].address+"\nRegion : "+datars[i].region+"\nNomor Telepon : "+datars[i].phone
-                        } else {
-                            pesan = pesan + "Mohon masukkan nama provinsi yang valid"
-                            break
                         }
                     }
                 } else if (args.length===1){
