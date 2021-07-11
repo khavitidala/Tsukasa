@@ -1,5 +1,5 @@
 # Tsukasa
- Tsukasa is a COVID-19 Information chatbot for whatsapp which send response to particular keywords. The project aim is to fulfill an assignment project of Wawasan Global TIK course.
+Tsukasa is a COVID-19 Information chatbot for Whatsapp which sends a response to particular keywords. The project aim is to fulfill an assignment project of the Wawasan Global TIK course.
 
 ### Clone this project
 
